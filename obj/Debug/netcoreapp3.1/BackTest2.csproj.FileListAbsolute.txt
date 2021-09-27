@@ -1,0 +1,13 @@
+E:\Programacion\Proyectos\TestTeleperformance\DevBack\BackTest2\bin\Debug\netcoreapp3.1\BackTest2.exe
+E:\Programacion\Proyectos\TestTeleperformance\DevBack\BackTest2\bin\Debug\netcoreapp3.1\BackTest2.deps.json
+E:\Programacion\Proyectos\TestTeleperformance\DevBack\BackTest2\bin\Debug\netcoreapp3.1\BackTest2.runtimeconfig.json
+E:\Programacion\Proyectos\TestTeleperformance\DevBack\BackTest2\bin\Debug\netcoreapp3.1\BackTest2.runtimeconfig.dev.json
+E:\Programacion\Proyectos\TestTeleperformance\DevBack\BackTest2\bin\Debug\netcoreapp3.1\BackTest2.dll
+E:\Programacion\Proyectos\TestTeleperformance\DevBack\BackTest2\bin\Debug\netcoreapp3.1\BackTest2.pdb
+E:\Programacion\Proyectos\TestTeleperformance\DevBack\BackTest2\obj\Debug\netcoreapp3.1\BackTest2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programacion\Proyectos\TestTeleperformance\DevBack\BackTest2\obj\Debug\netcoreapp3.1\BackTest2.AssemblyInfoInputs.cache
+E:\Programacion\Proyectos\TestTeleperformance\DevBack\BackTest2\obj\Debug\netcoreapp3.1\BackTest2.AssemblyInfo.cs
+E:\Programacion\Proyectos\TestTeleperformance\DevBack\BackTest2\obj\Debug\netcoreapp3.1\BackTest2.csproj.CoreCompileInputs.cache
+E:\Programacion\Proyectos\TestTeleperformance\DevBack\BackTest2\obj\Debug\netcoreapp3.1\BackTest2.dll
+E:\Programacion\Proyectos\TestTeleperformance\DevBack\BackTest2\obj\Debug\netcoreapp3.1\BackTest2.pdb
+E:\Programacion\Proyectos\TestTeleperformance\DevBack\BackTest2\obj\Debug\netcoreapp3.1\BackTest2.genruntimeconfig.cache
